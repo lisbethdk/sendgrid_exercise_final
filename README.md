@@ -1,1 +1,1 @@
-# sendgrid_exercise_final
+# WD2-sendgrid-exercise-final
